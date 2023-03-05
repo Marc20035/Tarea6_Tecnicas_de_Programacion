@@ -1,7 +1,7 @@
 # Tarea6_Tecnicas_de_Programacion
 
 # Notas:
-__Este es mi repositorio:
+* Este es mi repositorio: https://github.com/Marc20035/Tarea6_Tecnicas_de_Programacion.git
 
 # Ejercicios: 
 
